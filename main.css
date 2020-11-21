@@ -148,7 +148,7 @@ img {
     margin-left: 60px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 950px) {
     
     .navbar {
         margin-top: 10vw;
@@ -168,8 +168,7 @@ img {
     
     .central-name {
         font-size: 28px;
-        color: wheat;
-        animation: colorchange 20s infinite alternate;
+        color: black;
     }
 
     .work {
